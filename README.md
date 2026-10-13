@@ -2,7 +2,9 @@
 
 # Electronic Product Inspection & Repair — Coursework Repo
 
-Assignments and worked answers for the 《智能电子产品检测与维修》 (Smart Electronic Product Inspection & Repair) course at Hubei Three Gorges Polytechnic.
+Assignments, worked answers and slides for the 《智能电子产品检测与维修》 (Smart Electronic Product Inspection & Repair) course at Hubei Three Gorges Polytechnic.
+
+Multimeters, oscilloscopes, soldering irons — and the fine art of not burning your fingers.
 
 <br>
 
@@ -23,9 +25,9 @@ Assignments and worked answers for the 《智能电子产品检测与维修》 (
 </div>
 
 - Course: 智能电子产品检测与维修 (Smart Electronic Product Inspection & Repair)
-- Contains assignment questions with worked answers (Word documents) and course slides
-- Handy for study and review
-- Feel free to reference, but not for commercial use
+- Assignments 2–4 with worked answers, plus the course slides on repair methods and precautions
+- Written for the course, handy for review before exams
+- Reference freely, just don't sell it
 
 ---
 
@@ -36,5 +38,5 @@ Assignments and worked answers for the 《智能电子产品检测与维修》 (
 | 作业二-答案.docx | Assignment 2 with answers: identify components from the PCB layout (resistors, capacitors, diodes, transistors, ICs, 7-seg display, IR emitter/receiver…) and complete the component list |
 | 作业三.docx | Assignment 3: analog multimeter reading, measuring component parameters with a digital multimeter, and Tinkercad practice 1-1 |
 | 作业四-答案.docx | Assignment 4 answer key: multiple-choice questions on repair instruments and methods (oscilloscope, desoldering tools, etc.) |
-| 作业四.docx | Assignment 4, submitted version with answers filled in |
-| 维修方法、程序及注意事项.pptx | Course slides: repair methods, procedures and precautions |
+| 叶子俊 25303260248作业四.docx | Assignment 4, submitted version with answers filled in |
+| 4.维修方法、程序及注意事项.pptx | Course slides: repair methods, procedures and precautions |
