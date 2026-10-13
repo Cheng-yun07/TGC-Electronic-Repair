@@ -39,4 +39,4 @@ Multimeters, oscilloscopes, soldering irons — and the fine art of not burning 
 | 作业三.docx | Assignment 3: analog multimeter reading, measuring component parameters with a digital multimeter, and Tinkercad practice 1-1 |
 | 作业四-答案.docx | Assignment 4 answer key: multiple-choice questions on repair instruments and methods (oscilloscope, desoldering tools, etc.) |
 | 作业四.docx | Assignment 4, submitted version with answers filled in |
-| 4.维修方法、程序及注意事项.pptx | Course slides: repair methods, procedures and precautions |
+| 维修方法、程序及注意事项.pptx | Course slides: repair methods, procedures and precautions |
