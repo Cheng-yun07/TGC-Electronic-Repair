@@ -40,3 +40,4 @@ Multimeters, oscilloscopes, soldering irons — and the fine art of not burning 
 | 作业四-答案.docx | Assignment 4 answer key: multiple-choice questions on repair instruments and methods (oscilloscope, desoldering tools, etc.) |
 | 作业四.docx | Assignment 4, submitted version with answers filled in |
 | 维修方法、程序及注意事项.pptx | Course slides: repair methods, procedures and precautions |
+| 3.维修常用工具使用1.pptx | Course slides: commonly used repair tools (part 1) |
